@@ -3,10 +3,9 @@
 -El problema se basa en tratar de `cifrar` y `descifrar` a travez de en criptografía o también conocido como cifrado por desplazamiento, código de César.
  ejemplo
 
-
- | Texto original:|Texto codificado:  
- | ------------- |
- | ABCDEFGHIJKLMNÑOPQRSTUVWXYZ     |GHIJKLMNOPQRSTÑUVWXYZABCDEF|
+ | Texto original       | Texto codificado|
+ | -------------        |:-------------:|
+ | ABCDEFGHIJKLMNÑOPQRSTUVWXYZ|   GHIJKLMNOPQRSTÑUVWXYZABCDEF |
 
 ## Codigo ASCII
 El código ASCII significa en español Código Estadounidense Estándar para el Intercambio de Información, este código está basado integralmente en el alfabeto latino, se tomara en cuenta A-Z (65-90) y a-z(97-122) para poder cifrar el texto.
