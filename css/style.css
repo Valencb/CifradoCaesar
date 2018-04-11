@@ -1,1 +1,24 @@
-body { background-color: #FF0000; }
+#uno
+{
+  color: black;
+  background-color: PINK;
+  border: 8px groove blue;
+  font-size: 30px;
+  text-align: center;
+}
+#dos
+{
+  color: black;
+  background-color: lightblue;
+  border: 8px groove blue;
+  font-size: 30px;
+  text-align: left;
+}
+#tres
+{
+  color: black;
+  background-color: PINK;
+  border: 8px groove blue;
+  font-size: 30px;
+  text-align: left;
+}

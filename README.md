@@ -27,11 +27,11 @@ El código ASCII significa en español Código Estadounidense Estándar para el 
 
 ![Diagrama de flujo](asset/imagen/Diagrama.png)
 
-## Pasos a seguir funcion Decipher
+## Pasos a seguir funcion Decipherm
 1. Crear una funcion **Decipher**.
 2. El codigo sera modificado con el metodo *charCodeAt*
 3. Se asigna un codigo de acuerdo a nuestra tabla en ASCII
 4. Si el código es de carácter espacio, se deja sin cifrar.
 5. Se usara *fromCharCode()* para regresar el texto con el codigo `ASCII`.
 6. Se usa la formula para descifrar: (x + n) % 26
-![Diagrama de flujo](asset/Diagramad.png)
+![Diagrama de flujo](asset/imagen/Diagramad.png)
